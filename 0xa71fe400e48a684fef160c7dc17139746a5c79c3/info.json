@@ -1,0 +1,12 @@
+{
+  "name": "XYJS coin",
+  "website": "www.xingyijishu.con",
+  "description": ""XYJS  agriculture " combines WEB3 blockchain technology for on-demand agriculture that can be conducted globally. It aligns with the grand call made by General Secretary Xi Jinping of the Central Committee of the Communist Party of China for "developing large-scale agricultural operations and urbanization" and "ecological advancement through technological progress." This is done with the prerequisite of upholding collective land ownership in rural areas, encouraging the separation of contracting rights and management rights. The goal is to not only address agricultural issues but also the welfare of farmers, thereby forging a path towards modernizing agriculture in accordance with the unique characteristics of socialism with Chinese characteristics.
+",
+  "explorer": "https://bscscan.com/token/0xa71fe400e48a684fef160c7dc17139746a5c79c3",
+  "type": "BEP20",
+  "symbol": "XYJS",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xa71fe400e48a684fef160c7dc17139746a5c79c3"
+}
